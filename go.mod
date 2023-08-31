@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/gardinermichael/mattermost-plugin-starter-template
 
 go 1.19
 
